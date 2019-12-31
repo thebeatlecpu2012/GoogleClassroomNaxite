@@ -1,4 +1,4 @@
-# Myte's
+# Naxite
 
 ```diff
 
@@ -14,7 +14,7 @@
 
 !  Locally Stored and Hosted Proxy Server
 
-! This allows your Nyte site to have a proxy already equipped when you deploy it so you can quickly get to circumventing censorship!
+! This allows your Naxite Site to have a proxy already equipped when you deploy it so you can quickly get to circumventing censorship!
 
  #### Games
 
@@ -22,7 +22,7 @@
 
  #### Chatboxes
 
-! Chatboxes for Myte's Services. Replace if needed.
+! Chatboxes for Naxite's Services. Replace if needed.
 
  #### Suggest Some Stuff!
  
