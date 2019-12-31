@@ -1,0 +1,7 @@
+{
+  "name": "Myte",
+  "description": "Myte's Flagship Proxy Site.",
+  "repository": "https://github.com/o0-Myte",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["proxy", "filter", "bypass"]
+}
