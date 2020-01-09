@@ -35,7 +35,7 @@ body:before {
   background-color: #b81b1b;}
 
 .navbar:not(.top-nav-collapse) {background: linear-gradient(360deg, #000000, #000000 );
-outline: 4px solid #fff700;
+outline: 4px solid #ffffff;
 }
 
 #intro .h6 {
