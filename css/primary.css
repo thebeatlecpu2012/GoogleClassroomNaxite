@@ -39,6 +39,7 @@ body:before {
   font-family: "Andale Mono", monospace;
   font-weight: 350;
   line-height: 1.7;
+  outline: 4px solid #fff700;
 }
 
 header {
