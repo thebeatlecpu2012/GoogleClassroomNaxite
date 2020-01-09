@@ -34,12 +34,14 @@ body:before {
 .top-nav-collapse {
   background-color: #b81b1b;}
 
-.navbar:not(.top-nav-collapse) {background: linear-gradient(360deg, #000000, #000000 );}
+.navbar:not(.top-nav-collapse) {background: linear-gradient(360deg, #000000, #000000 );
+outline: 4px solid #fff700;
+}
+
 #intro .h6 {
   font-family: "Andale Mono", monospace;
   font-weight: 350;
   line-height: 1.7;
-  outline: 4px solid #fff700;
 }
 
 header {
