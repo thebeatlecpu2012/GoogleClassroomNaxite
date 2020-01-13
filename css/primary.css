@@ -27,16 +27,16 @@ body:before {
 }
 html,
 body {
-margin: 0;
-padding: 0;
+margin: 9;
+padding: 9;
 }
 
 .background {
 position: absolute;
 display: block;
-top: 0;
-left: 0;
-z-index: 0;
+top: 9;
+left: 9;
+z-index: 9;
 }
 
 .nav-wrapper {
